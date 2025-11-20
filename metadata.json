@@ -1,0 +1,5 @@
+{
+  "name": "3D Print Hub",
+  "description": "A comprehensive management tool for 3D printing enthusiasts to track filament inventory, manage print queues, and schedule jobs across multiple printers.",
+  "requestFramePermissions": []
+}
